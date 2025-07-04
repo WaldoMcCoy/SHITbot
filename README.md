@@ -1,0 +1,2 @@
+# SHITbot
+SHIT Telegram Bot
